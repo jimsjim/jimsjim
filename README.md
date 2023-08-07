@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Oliech
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning  BSC data science and analytics 
+- 🌱 I’m currently learning  BSC data science and analytics at Jommo Kenyatta University of Agriculture and Technology.
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me ajinius33@gmail.com 
 
