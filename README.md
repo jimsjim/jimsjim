@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimsjim
+- 👋 Hi, I’m James Oliech
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning  BSC data science and analytics 
 - 💞️ I’m looking to collaborate on coding projects
